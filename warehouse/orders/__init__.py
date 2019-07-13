@@ -1,0 +1,13 @@
+
+STATUS_NEW = 1
+STATUS_DECLINE = 2
+STATUS_IN_PROGRESS = 3
+STATUS_COMPLETE = 4
+
+STATUSES_LIST = (
+    (STATUS_NEW, "New"),
+    (STATUS_DECLINE, "Decline"),
+    (STATUS_IN_PROGRESS, "In progress"),
+    (STATUS_COMPLETE, "Complete"),
+)
+
